@@ -1,0 +1,238 @@
+a {
+        color: black;}
+      
+     .bg-image-full {
+    height:600px;
+    }
+      .img-fluid {
+    max-width: 100%;
+    height:auto;
+    color: white;
+    letter-spacing: 4px;
+    font-size: 35px;
+    font-family: monospace;
+    margin-top: 150px;
+    }
+    .btn-lg {
+    
+    border-radius: 25px;
+        padding: 10px 30px 10px 30px;
+}
+    div#colorlib-reservation {
+    padding-top: 15px;
+            background-color: #f8f9fa;
+}
+      #plus{
+          color:darkblue;
+          padding-left: 40px;
+      }
+      #plus:hover{
+          color:black;
+          text-decoration:none;
+              
+      }
+      .col-md-2 {padding:3px;}
+      .navbar-expand-lg .navbar-nav .nav-link {
+  
+          padding: 0 30px 0 30px;}
+      #l1{
+          color: #34D4C5;
+      }
+      .form-control:disabled {
+    background-color: white !important;
+      }
+      .bg-white{
+         background-color: white;
+      }
+      #cycle{
+          height:100%;
+          width:100%;
+      }
+      #imglogo{
+          float:left;
+      }
+      .lead {
+          padding-left: 20px;
+          font-size:18px;
+      }
+      .col-sm.tete {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }
+      .py-5 {
+     padding-bottom: 0!important; 
+}
+      
+      
+
+      .subscribe-area {
+background-image: linear-gradient(to top, #f7d62a 0%, #FFD600 100%);
+}
+
+.pt-70 {
+    padding-top: 15px;
+}
+.pb-50 {
+    padding-bottom: 0px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.subscribe-text span {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 3px;
+    padding-left: 10px;
+    color:black;
+    
+}
+.subscribe-text h2 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-top: 6px;
+}
+.subscribe-wrapper {
+    overflow: hidden;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.subscribe-form {
+}
+.subscribe2-wrapper .subscribe-form input {
+    
+    border: 1px solid #fff;
+    
+    color: black;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 300;
+    height: 57px;
+    padding-left: 35px;
+    width: 50%;
+    cursor: pointer;
+}
+ 
+.subscribe2-wrapper .subscribe-form button {
+    background:#34D4C5;
+    border: none;
+    
+    color: #4b5d73;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+    padding: 18px 46px;
+    transition: all 0.3s ease 0s;
+    height:58px;
+}
+.subscribe2-wrapper .subscribe-form button i {
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+      .row.final {
+    padding-bottom: 30px;
+}
+      .col-md-4.text {
+    padding-top: 15px;
+}
+      .subscribe-text.mb-16 {
+    padding-top: 10px;
+}
+      #inscri{
+          color:aqua;
+      }
+      
+      
+      .btn-primary {
+    color: #fff;
+    background-color: #34D4C5;
+    border-color: #34D4C5;
+}
+      .nav-link.ann{
+          color:darkred !important;
+      }
+      .mdb-color{
+          background-color: #504C94;
+      }
+      .foot_col{
+          background-color: white;
+      }
+      #fooh{
+          color:white;
+      }
+
+.font-weight-bold {
+    color: white;
+}
+      #ty{
+          float:left;
+          color:#34D4C5;
+      }
+      
+      @media only screen and (max-width: 800px) {
+ .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 10px 30px 10px 30px;
+}
+          .subscribe2-wrapper .subscribe-form input {
+              width:60%;}
+          .subscribe-text span{
+              padding-left:0;
+          }
+          #plus {
+            color: darkblue;
+              padding-left: 10px;}
+}
+      
+      
+      
+      .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+ display: inline!important;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+      #ff1{color:#015697;}
+      #ff2{color:#31A6AF;}
+      #ff3{color:#F0C75F;}
+      #ff4{color:#E86159;}
+
+    
